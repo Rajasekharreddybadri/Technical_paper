@@ -10,7 +10,7 @@ All the SQL statements start with any of the keywords like SELECT, INSERT, UPDAT
 
 ---
 
->## [Data Types](#data-types-1)
+>## [Data Types](#data-types)
 
 - [Binary](#binary)
 - [Varbinary](#varbinary)
@@ -38,7 +38,7 @@ All the SQL statements start with any of the keywords like SELECT, INSERT, UPDAT
 
 ---
 
->## [Types of SQL Commands](#types-of-sql-commands-1)
+>## [Types of SQL Commands](#types-of-sql-commands)
 
 - [DML](#some-commands-in-dml)
   - [**SELECT** **:**](#select)
@@ -61,14 +61,14 @@ All the SQL statements start with any of the keywords like SELECT, INSERT, UPDAT
 
 ---
 
->## [SQL JOINS](#sql-joins-1)
+>## [SQL JOINS](#sql-joins)
    - [INNER JOIN](#inner-join)
    - [LEFT OUTER JOIN](#left-outer-join)
    - [RIGHT OUTER JOIN](#right-outer-join)
    - [FULL OUTER JOIN](#full-outer-join)
 
 ---
->## [Aggregate functions](#aggregate-functions-1)
+>## [Aggregate functions](#aggregate-functions)
    - [Count](#count)
    - [Sum](#sum)
    - [Avg](#Avg)
