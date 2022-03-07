@@ -355,8 +355,8 @@ All the SQL statements start with any of the keywords like SELECT, INSERT, UPDAT
    gets the minimum value in a set of values.
 
    ## Example :
-         o get the minimum units in stock of products in the products table, you use the MIN function.
-   >## SELECT MIN(unitsinstock) FROM products;
+         To get the minimum units in stock of products in the products table, you use the MIN function.
+   >#### SELECT MIN(unitsinstock) FROM products;
 
 ## **MAX** **:**
    gets the maximum value in a set of values.
