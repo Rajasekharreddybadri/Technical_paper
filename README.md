@@ -2,7 +2,7 @@
 
  SQL is a technology used to create and manage databases. SQL works with a type of database called a “relational database”, which are structures of data that have both columns and rows of data Each column in a table stores information about a category of data, such as a name or an email address. A row stores values for a particular entry. So, one row in a database could store a single user’s name and email address.
 
-> ## **SYNTAX**
+> ## **Syntax**
 
 All the SQL statements start with any of the keywords like SELECT, INSERT, UPDATE, DELETE, ALTER, DROP, CREATE, USE, SHOW, and all the statements end with a semicolon (;).
 
