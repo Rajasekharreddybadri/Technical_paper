@@ -10,70 +10,70 @@ All the SQL statements start with any of the keywords like SELECT, INSERT, UPDAT
 
 ---
 
->## [Data Types](#data-types)
+>## [Data Types](#data-types-)
 
-- [Binary](#binary)
-- [Varbinary](#varbinary)
-- [Numeric](#numeric)
-  - [Exact Numeric](#exact-numeric)
-  - [Approximate Numeric](#approximate-numeric)
-- [Character String](#character-string)
-   - [Char Versus](#char-versus)
-   - [Varchar Versus](#varchar-versus)
-- [Date and Time](#date-and-time)
+- [Binary](#binary-)
+- [Varbinary](#varbinary-)
+- [Numeric](#numeric-)
+  - [Exact Numeric](#exact-numeric-)
+  - [Approximate Numeric](#approximate-numeric-)
+- [Character String](#character-string-)
+   - [Char Versus](#char-versus-)
+   - [Varchar Versus](#varchar-versus-)
+- [Date and Time](#date-and-time-)
 
 
 ---
 
->## [KEYS](#keys)
+>## [KEYS](#keys-)
 
-- [Super Key](#super-key)
-- [primary Key](#primary-key)
-- [Candidate Key](#composite-key)
-- [Alternate Key](#alternate-key)
-- [Foregin Key](#foreign-key)
-- [Composite Key](#composite-key)
-- [Compound Key](#compound-key)
+- [Super Key](#super-key-)
+- [primary Key](#primary-key-)
+- [Candidate Key](#composite-key-)
+- [Alternate Key](#alternate-key-)
+- [Foregin Key](#foreign-key-)
+- [Composite Key](#composite-key-)
+- [Compound Key](#compound-key-)
 - [Surrogate Key](#surrogate-key)
 
 ---
 
 >## [Types of SQL Commands](#types-of-sql-commands)
 
-- [DML](#some-commands-in-dml)
-  - [**SELECT** **:**](#select)
-  - [**INSERT** **:**](#insert)
-  - [**UPDATE** **:**](#update)
-  - [**DELETE** **:**](#delete)
-- [DDL](#some-commands-in-ddl)
-  - [**CREATE** **:**](#create)
-  - [**ALTER** **:**](#alter)
-  - [**DROP** **:**](#drop)
-  - [**TRUNCATE** **:**](#truncate)
+- [DML](#dml)
+  - [**SELECT** **:**](#select-)
+  - [**INSERT** **:**](#insert-)
+  - [**UPDATE** **:**](#update-)
+  - [**DELETE** **:**](#delete-)
+- [DDL](#ddl)
+  - [**CREATE** **:**](#create-)
+  - [**ALTER** **:**](#alter-)
+  - [**DROP** **:**](#drop-)
+  - [**TRUNCATE** **:**](#truncate-)
 
-- [DCL](#some-commands-in-dcl)
-  - [**GRANT** **:**](#grant)
-  - [**REVOKE** **:**](#revoke)
+- [DCL](#dcl)
+  - [**GRANT** **:**](#grant-)
+  - [**REVOKE** **:**](#revoke-)
 - [TCL](#some-commands-in-tcl)
-  - [**COMMIT** **:**](#commit)
-  - [**ROLLBACK** **:**](#rollback)
-  - [**SAVEPOINT** **:**](#savepoint)
+  - [**COMMIT** **:**](#commit-)
+  - [**ROLLBACK** **:**](#rollback-)
+  - [**SAVEPOINT** **:**](#savepoint-)
 
 ---
 
->## [SQL JOINS](#sql-joins)
-   - [INNER JOIN](#inner-join)
-   - [LEFT OUTER JOIN](#left-outer-join)
-   - [RIGHT OUTER JOIN](#right-outer-join)
-   - [FULL OUTER JOIN](#full-outer-join)
+>## [SQL JOINS](#sql-joins-)
+   - [INNER JOIN](#inner-join-)
+   - [LEFT OUTER JOIN](#left-outer-join-)
+   - [RIGHT OUTER JOIN](#right-outer-join-)
+   - [FULL OUTER JOIN](#full-outer-join-)
 
 ---
->## [Aggregate functions](#aggregate-functions)
-   - [Count](#count)
-   - [Sum](#sum)
-   - [Avg](#Avg)
-   - [Min](#min)
-   - [Max](#max)
+>## [Aggregate functions](#aggregate-functions-)
+   - [Count](#count-)
+   - [Sum](#sum-)
+   - [Avg](#avg-)
+   - [Min](#min-)
+   - [Max](#max-)
 
 >## **DATA TYPES** **:**
    SQL Data Type is an attribute that specifies the type of data of any object. Each column, variable and expression has a related data type in SQL. You can use these data types while creating your tables. You can choose a data type for a table column based on your requirement.
