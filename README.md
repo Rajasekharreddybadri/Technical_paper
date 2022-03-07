@@ -293,13 +293,13 @@ All the SQL statements start with any of the keywords like SELECT, INSERT, UPDAT
    >#### SAVEPOINT SAVEPOINT_NAME;
 ---
 >## **SQL JOINS** **:**
-   SQL JOINS are used to retrieve data from multiple tables. A SQL JOIN is performed whenever two or more tables are listed in a SQL statement.
+ SQL JOINS are used to retrieve data from multiple tables. A SQL JOIN is performed whenever two or more tables are listed in a SQL statement.
 ## **INNER JOIN** **:**
 
 ## Syntax
 >##### SELECT columns FROM table1 INNER JOIN table2 ON table1.column = table2.column;
 ## Visual IIIusration 
-   In this visual diagram, the SQL INNER JOIN returns the shaded area:
+       In this visual diagram, the SQL INNER JOIN returns the shaded area:
    ![Inner join](/inner_join.gif)
 
 ## **LEFT OUTER JOIN** **:**
@@ -317,7 +317,7 @@ All the SQL statements start with any of the keywords like SELECT, INSERT, UPDAT
    >##### SELECT columns FROM table1 RIGHT [OUTER] JOIN table2 ON table1.column = table2.column;
    ## Visual IIIustration
          In this visual diagram, the SQL RIGHT OUTER JOIN returns the shaded area:
-![Right outer join](right_outer_join.gif)
+   ![Right outer join](right_outer_join.gif)
 
 
 ## **FULL OUTER JOIN** **:**
